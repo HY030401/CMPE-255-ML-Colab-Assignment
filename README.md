@@ -40,8 +40,20 @@ Video Tutorial:
 
 ## Part 3 - AutoGluon End-to-End ML
 
-Video Tutorial:
-[YouTube Video](YOUR_YOUTUBE_LINK)
+Notebook: `Part3_AutoGluon_End2End/03_final_autogluon_zero_to_hero.ipynb`
+
+Topics:
+
+- End-to-end AutoML workflow
+- Model training and leaderboard comparison
+- Classification evaluation metrics
+- Decision threshold tuning
+- Regression and regression metrics
+- Data leakage detection
+- Model saving and loading
+- Error analysis
+
+Video Tutorial: [YouTube Video](YOUR_YOUTUBE_LINK)
 
 ## Part 4 - NVIDIA RAPIDS CPU vs GPU
 
